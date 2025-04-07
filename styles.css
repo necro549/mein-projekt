@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'Schriftnr 1';
+    src: url('fonts/Schriftnr 1.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr 2';
+    src: url('fonts/Schriftnr 2.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr 3';
+    src: url('fonts/Schriftnr 3.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr 4';
+    src: url('fonts/Schriftnr 4.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr 5';
+    src: url('fonts/Schriftnr 5.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr 6';
+    src: url('fonts/Schriftnr 6.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr-7';
+    src: url('fonts/Schriftnr-7.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr-8';
+    src: url('fonts/Schriftnr-8.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr-9';
+    src: url('fonts/Schriftnr-9.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr-10';
+    src: url('fonts/Schriftnr-10.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr-11';
+    src: url('fonts/Schriftnr-11.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr-12';
+    src: url('fonts/Schriftnr-12.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr-13';
+    src: url('fonts/Schriftnr-13.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Schriftnr-14';
+    src: url('fonts/Schriftnr-14.ttf') format('truetype');
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"], select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.output {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #fafafa;
+}
